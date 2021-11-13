@@ -5,6 +5,22 @@
     --white-color:#e7e7e7;
 }
 
+/*Fizz Buzz classes*/
+
+.Fizz{
+    color: green;
+}
+
+.Buzz{
+    color: blue;
+}
+
+.FizzBuzz{
+    color:red;
+    font-weight: bold;
+}
+
+
 body{
     color:var(--dark-color);
 }
